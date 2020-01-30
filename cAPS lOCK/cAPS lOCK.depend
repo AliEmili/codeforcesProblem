@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571824248 source:d:\my programs\codeforces\caps lock\main.cpp
+	<iostream>
+	<ctype.h>
+
