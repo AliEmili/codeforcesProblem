@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1582796551 source:/media/aliemili/01D245A792F3EC80/my programs/codeforces/Pangram/main.cpp
-	<iostream>
-	<ctype.h>
-
